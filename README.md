@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/813055311.svg)](https://doi.org/10.5281/zenodo.14960675)
+
 # HyPE
 Hypergeometric Protein domain Enrichment
 
